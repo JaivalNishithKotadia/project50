@@ -1,0 +1,42 @@
+p{
+    font-family: cursive;font-size: x-large ;
+    }
+        body{
+    background-color: pink;
+    }
+        img{
+        border: 5px solid black;
+        border-radius: 40px;
+        }
+       h1{
+       border: 5px solid dimgray;
+       background-color: dimgray;
+       }
+       
+       .menu{
+           background-color: black; 
+           display: flex;
+           justify-content: space-between;
+           font-size: 30px;
+           font-family: cursive;
+           font-weight: 400;
+           color: white;
+       }
+       .grid img{
+           border: 2px solid black;
+           border-radius: 50px;
+           
+       }
+       .grid{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+       }
+       .origami{
+           border: 2px solid black;
+           border-radius: 20px;
+           background-color: white;
+           width: 310px;
+           font-family: fantasy;
+        }
+       
